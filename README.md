@@ -1,7 +1,6 @@
-自制 GRE 单词卡片
+CodeName GRE FlashCard
 ====
-受magoosh的flashcard启发，准备GRE的时候自己做了一套打印版的GRE flashcard(词和例句来自于3000)。个人觉得刷flashcard比直接刷书带感，平时带一叠卡片放口袋里上无聊的课、等车啥的时候都可以看一看比较方便；而且根据心理学，刷flashcard属于active learning，比一般看书passive learning记忆效果好。
-
+受CodeName桌游的启发，发现可以通过桌游的形式背诵单词，且效果极佳。因此利用Eroica-cpp的GRE-flashcard(https://github.com/Eroica-cpp/GRE-flashcards)的代码为基础进行修改，实现了相应的卡片制作
 制作方法
 ----
 * **步骤一：下载pdf文件** [GRE-flashcards-all.pdf](https://github.com/Eroica-cpp/GRE-flashcards/blob/master/download/GRE-flashcards-all.pdf)，
